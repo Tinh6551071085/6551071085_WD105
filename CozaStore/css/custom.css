@@ -1,0 +1,75 @@
+.toMauVang {
+    display: inline;
+    border: 2px solid yellow;
+   background-color: yellow;
+  
+}
+.banner1 {
+    border: 1px solid;
+    width: 300px;
+    padding: 20px;
+    padding-left: 40px;
+    margin: 10px;
+    height: 200px;
+
+}
+
+.text1 {
+    position: absolute;
+  
+    top: 20%;
+    left: 10%;
+    text-align: left;
+}
+
+.texth5 {
+    font-weight: bold;
+    color: black;
+
+}
+
+.container1 {
+    display: flex;
+}
+
+.Tong {
+    position: relative;
+    overflow: hidden;
+    border-radius: 6px;
+}
+
+#nutAnHien {
+    position: relative;
+    background-color: #ff0000;
+    color: white;
+    left: 50%;
+}
+
+.messager1 input{
+    margin: 5px;
+    border: 1px solid;
+}
+
+.messager1 h3{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.placeHolderLuaChon {
+    color: gray;
+}
+.textarea1{
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+       margin-top: 20px;
+}
+
+.submit1{
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    width: 100%;
+    height: 50px;
+}
